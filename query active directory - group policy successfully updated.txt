@@ -1,0 +1,1 @@
+event.code 5312 and agent.name  srv-ad and winlog.event_data.SubjectUserName 

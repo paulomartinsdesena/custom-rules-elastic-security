@@ -1,0 +1,1 @@
+event.code: ("4732" or "4728" or "4756") and agent.name : "srv-ad"

@@ -1,0 +1,1 @@
+event.code: "4625" and agent.name : "srv-ad" and not user.name: "administrador" 
