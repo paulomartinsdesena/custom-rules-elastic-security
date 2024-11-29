@@ -1,2 +1,2 @@
-# custom-rules-elastic-security-
+# custom-rules-elastic-security
 Custom Rules Elastic Security 
