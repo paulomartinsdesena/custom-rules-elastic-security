@@ -1,0 +1,1 @@
+event.module: "opencanary" and  destination.port: (21 or 22 or 80 or 443 or 3306 or 9418)
